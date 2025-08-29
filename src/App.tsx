@@ -13,7 +13,7 @@ export default function App() {
             experimenting remixing{" "}
             <span className="font-bold">music</span> and
             remixing{" "}
-            <span className="sparkly-ai font-normal font-bold">
+            <span className="sparkly-ai font-bold">
               intelligence
             </span>
           </h2>
@@ -36,11 +36,11 @@ export default function App() {
           </p>
           <div className="flex justify-center space-x-2 text-sm text-[rgba(253,229,194,1)]">
             <span>●</span>
-            <span>A lot of RPM</span>
+            <span>melodic techno</span>
             <span>●</span>
-            <span>Stereo</span>
+            <span>Currently @ Microsoft Azure</span>
             <span>●</span>
-            <span>Reduced sleep</span>
+            <span>Running & badminton</span>
           </div>
         </div>
       </div>
